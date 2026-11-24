@@ -99,3 +99,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: opencode-free-tool, free, subscription, tool, generation, ai-tools, free-tier, opencode, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+opencode free subscription tool generation tool ai-tools free-tier opencode-free-tool oc-free-sub-generator opencode-free-sub windows portable prebuilt x64 free download
+related: opencode, free, subscription, tool, generation, tool, ai-tools, free-tier
